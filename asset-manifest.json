@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Gobang-Game/static/css/main.ea7f0fba.chunk.css",
+    "main.css": "/Gobang-Game/static/css/main.fe52eee5.chunk.css",
     "main.js": "/Gobang-Game/static/js/main.e0c28d1e.chunk.js",
     "main.js.map": "/Gobang-Game/static/js/main.e0c28d1e.chunk.js.map",
     "runtime-main.js": "/Gobang-Game/static/js/runtime-main.0b62645d.js",
@@ -10,13 +10,13 @@
     "static/js/3.864f8b3b.chunk.js": "/Gobang-Game/static/js/3.864f8b3b.chunk.js",
     "static/js/3.864f8b3b.chunk.js.map": "/Gobang-Game/static/js/3.864f8b3b.chunk.js.map",
     "index.html": "/Gobang-Game/index.html",
-    "static/css/main.ea7f0fba.chunk.css.map": "/Gobang-Game/static/css/main.ea7f0fba.chunk.css.map",
+    "static/css/main.fe52eee5.chunk.css.map": "/Gobang-Game/static/css/main.fe52eee5.chunk.css.map",
     "static/js/2.b476f6cf.chunk.js.LICENSE.txt": "/Gobang-Game/static/js/2.b476f6cf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0b62645d.js",
     "static/js/2.b476f6cf.chunk.js",
-    "static/css/main.ea7f0fba.chunk.css",
+    "static/css/main.fe52eee5.chunk.css",
     "static/js/main.e0c28d1e.chunk.js"
   ]
 }

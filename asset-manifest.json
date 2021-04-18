@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Wozski/Gobang-Game.git/static/css/main.ea7f0fba.chunk.css",
-    "main.js": "/Wozski/Gobang-Game.git/static/js/main.e0c28d1e.chunk.js",
-    "main.js.map": "/Wozski/Gobang-Game.git/static/js/main.e0c28d1e.chunk.js.map",
-    "runtime-main.js": "/Wozski/Gobang-Game.git/static/js/runtime-main.65ae0f00.js",
-    "runtime-main.js.map": "/Wozski/Gobang-Game.git/static/js/runtime-main.65ae0f00.js.map",
-    "static/js/2.b476f6cf.chunk.js": "/Wozski/Gobang-Game.git/static/js/2.b476f6cf.chunk.js",
-    "static/js/2.b476f6cf.chunk.js.map": "/Wozski/Gobang-Game.git/static/js/2.b476f6cf.chunk.js.map",
-    "static/js/3.864f8b3b.chunk.js": "/Wozski/Gobang-Game.git/static/js/3.864f8b3b.chunk.js",
-    "static/js/3.864f8b3b.chunk.js.map": "/Wozski/Gobang-Game.git/static/js/3.864f8b3b.chunk.js.map",
-    "index.html": "/Wozski/Gobang-Game.git/index.html",
-    "static/css/main.ea7f0fba.chunk.css.map": "/Wozski/Gobang-Game.git/static/css/main.ea7f0fba.chunk.css.map",
-    "static/js/2.b476f6cf.chunk.js.LICENSE.txt": "/Wozski/Gobang-Game.git/static/js/2.b476f6cf.chunk.js.LICENSE.txt"
+    "main.css": "/Gobang-Game/static/css/main.ea7f0fba.chunk.css",
+    "main.js": "/Gobang-Game/static/js/main.e0c28d1e.chunk.js",
+    "main.js.map": "/Gobang-Game/static/js/main.e0c28d1e.chunk.js.map",
+    "runtime-main.js": "/Gobang-Game/static/js/runtime-main.0b62645d.js",
+    "runtime-main.js.map": "/Gobang-Game/static/js/runtime-main.0b62645d.js.map",
+    "static/js/2.b476f6cf.chunk.js": "/Gobang-Game/static/js/2.b476f6cf.chunk.js",
+    "static/js/2.b476f6cf.chunk.js.map": "/Gobang-Game/static/js/2.b476f6cf.chunk.js.map",
+    "static/js/3.864f8b3b.chunk.js": "/Gobang-Game/static/js/3.864f8b3b.chunk.js",
+    "static/js/3.864f8b3b.chunk.js.map": "/Gobang-Game/static/js/3.864f8b3b.chunk.js.map",
+    "index.html": "/Gobang-Game/index.html",
+    "static/css/main.ea7f0fba.chunk.css.map": "/Gobang-Game/static/css/main.ea7f0fba.chunk.css.map",
+    "static/js/2.b476f6cf.chunk.js.LICENSE.txt": "/Gobang-Game/static/js/2.b476f6cf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.65ae0f00.js",
+    "static/js/runtime-main.0b62645d.js",
     "static/js/2.b476f6cf.chunk.js",
     "static/css/main.ea7f0fba.chunk.css",
     "static/js/main.e0c28d1e.chunk.js"
